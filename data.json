@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Akshay",
+      "number": "0123456789",
+      "email": "akshay@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Aman",
+      "number": "1234567890",
+      "email": "aman@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Aaron",
+      "number": "2345678901",
+      "email": "aaron@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Aadhitya",
+      "number": "3456789012",
+      "email": "aadhitya@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Sumit",
+      "number": "4567890123",
+      "email": "sumit@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "Selmon Bhai",
+      "number": "8901234567",
+      "email": "selmonbhai@footpath.com"
+    },
+    {
+      "id": 8,
+      "name": "John",
+      "number": "9012345678",
+      "email": "john@gmail.com"
+    }
+  ]
+}
